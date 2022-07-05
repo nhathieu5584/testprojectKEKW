@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675011731931",
+    "project_id": "huha6367",
+    "storage_bucket": "huha6367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675011731931:android:37ca736ae38e21edf547fe",
+        "android_client_info": {
+          "package_name": "com.hello.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675011731931-49nvdkcvnsvm20d3mng01lk0rnfvmdut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtUgrjq_02OixFhzuiIZa20HJpbAQC100"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675011731931-49nvdkcvnsvm20d3mng01lk0rnfvmdut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
